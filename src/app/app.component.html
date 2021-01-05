@@ -1,6 +1,17 @@
 <mat-toolbar color="primary">
   <mat-toolbar-row>
-    BitBite
+    <button mat-flat-button routerLink="./" color="primary">
+      BitBite
+    </button>
+    <span fxFlex="1 1 auto"></span>
+
+    <button mat-button routerLink="tracking">
+      <mat-icon>track_changes</mat-icon>Tracking
+    </button>
+
+    <button mat-button routerLink="cart">
+      <mat-icon>shopping_cart</mat-icon> My cart  
+    </button>
   </mat-toolbar-row>
 </mat-toolbar>
 <router-outlet></router-outlet>
