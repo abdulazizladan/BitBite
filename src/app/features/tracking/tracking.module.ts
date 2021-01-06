@@ -6,6 +6,7 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatInputModule } from '@angular/material/input';
 import { MatButtonModule } from '@angular/material/button';
 import { FlexLayoutModule } from '@angular/flex-layout';
+import { MatCardModule } from '@angular/material/card';
 
 import { TrackingRoutingModule } from './tracking-routing.module';
 import { SearchComponent } from './components/search/search.component';
@@ -20,7 +21,8 @@ import { DetailsComponent } from './components/details/details.component';
     MatIconModule,
     MatInputModule,
     MatButtonModule,
-    FlexLayoutModule
+    FlexLayoutModule,
+    MatCardModule
   ]
 })
 export class TrackingModule { }

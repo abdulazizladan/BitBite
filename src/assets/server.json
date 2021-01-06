@@ -1,0 +1,62 @@
+[
+    {
+        "store_id" : 0,
+        "store_name" : "Fruit Fresh",
+        "store_logo" : "0.jpg",
+        "product_name" : "Fruit Punch",
+        "product_id": 0,
+        "product_image" : "1.jpg",
+        "product_description" : "This exotic fruit punch is packed with fresh juices from water melon, strawberries and citrus extracts.",
+        "product_price" : 0
+    },
+    {
+        "store_id" : 0,
+        "store_name" : "Candy Palace",
+        "product_name" : "Strawberry & cream drops",
+        "store_logo" : "1.jpg",
+        "product_id": 0,
+        "product_image" : "0.jpg",
+        "product_description" : "Try this wonderfully flavored sweet drops. They are the perfect pocket companions.",
+        "product_price" : 0
+    },
+    {
+        "store_id" : 0,
+        "store_name" : "Candy Palace",
+        "product_name" : "Strawberry & cream drops",
+        "store_logo" : "1.jpg",
+        "product_id": 0,
+        "product_image" : "0.jpg",
+        "product_description" : "Try this wonderfully flavored sweet drops. They are the perfect pocket companions.",
+        "product_price" : 0
+    }  ,
+    {
+        "store_id" : 0,
+        "store_name" : "Candy Palace",
+        "product_name" : "Strawberry & cream drops",
+        "store_logo" : "1.jpg",
+        "product_id": 0,
+        "product_image" : "0.jpg",
+        "product_description" : "Try this wonderfully flavored sweet drops. They are the perfect pocket companions.",
+        "product_price" : 0
+    }  ,
+    {
+        "store_id" : 0,
+        "store_name" : "Candy Palace",
+        "product_name" : "Strawberry & cream drops",
+        "store_logo" : "1.jpg",
+        "product_id": 0,
+        "product_image" : "0.jpg",
+        "product_description" : "Try this wonderfully flavored sweet drops. They are the perfect pocket companions.",
+        "product_price" : 0
+    }  ,
+    {
+        "store_id" : 0,
+        "store_name" : "Candy Palace",
+        "product_name" : "Strawberry & cream drops",
+        "store_logo" : "1.jpg",
+        "product_id": 0,
+        "product_image" : "0.jpg",
+        "product_description" : "Try this wonderfully flavored sweet drops. They are the perfect pocket companions.",
+        "product_price" : 0
+    }      
+]
